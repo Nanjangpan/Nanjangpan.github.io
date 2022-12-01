@@ -1,7 +1,7 @@
 ---
 title: 안정 해시(Consistent Hashing)
 categories: [System]
-tags: [consistent_hashing, 가상 면접 사례로 배우는 대규모 시스템 설계 기초]     # TAG names should always be lowercase
+tags: [consistent_hashing, 가상-면접-사례로-배우는-대규모-시스템-설계-기초]     # TAG names should always be lowercase
 ---
 
 
