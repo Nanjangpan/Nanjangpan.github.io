@@ -47,8 +47,6 @@ DAG 무결성 검사는 아래의 dag import error를 잡는 것으로, task 단
 └── └── conftest.py 
 ```
 
-![2022-12-11-10-12-05](https://i.ibb.co/tZB0hQZ/2022-12-11-10-12-05.png)
-
 ### 4.2 Conftest.py
 
 ```python
