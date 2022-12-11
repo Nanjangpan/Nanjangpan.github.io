@@ -4,7 +4,7 @@ title: 안정 해시(Consistent Hashing)
 date: '2022-11-31 10:59:10 +0900'
 description: '안정 해시 설명'
 categories: [System]
-tags: [consistent_hashing, 가상-면접-사례로-배우는-대규모-시스템-설계-기초]     # TAG names should always be lowercase
+tags: [가상-면접-사례로-배우는-대규모-시스템-설계-기초]     # TAG names should always be lowercase
 use_math: true
 ---
 
