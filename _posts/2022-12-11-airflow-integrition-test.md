@@ -35,6 +35,18 @@ DAG 무결성 검사는 아래의 dag import error를 잡는 것으로, task 단
 
 ### 4.1 전체 구조
 
+```bash
+├── .cicleci
+│   └── config.yaml # PR 단계에서 test를 돌리기 위한 CircleCI 설정 파일
+├── test_requirements.txt # test를 위한 dependancy
+├── Dockerfile # Airflow docker
+├── Dags # dag 파일 있는 곳
+├── tests # 테스트
+│   ├── dags
+│   │   └── test_dag_integrity.py
+└── └── conftest.py 
+```
+
 ![2022-12-11-10-12-05](https://i.ibb.co/tZB0hQZ/2022-12-11-10-12-05.png)
 
 ### 4.2 Conftest.py
