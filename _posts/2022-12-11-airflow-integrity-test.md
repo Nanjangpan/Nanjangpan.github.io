@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Airflow Integrition Test (with Pytest)
+title: Airflow Integrity Test (with Pytest)
 date: '2022-12-11 10:59:10 +0900'
 description: 'Airflow Integrition Test'
 categories: [Airflow]
